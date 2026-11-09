@@ -1,4 +1,3 @@
-
 Grade Chalkboard
 Calculate your GWA and find out what grade you need on the final exam to hit your target.
 GWA calculator
